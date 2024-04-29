@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": -7.788722155987107,
+        "longitude": 110.40227391713528,
+        "value": 1,
+        "marker": "Rumah Makan Andeska",
+        "image": "https://i.ibb.co/tp6N8MC/dtk.jpg"
+    },
+    {
+        "latitude": -7.798642017804806,
+        "longitude": 110.39940670300862,
+        "value": 2,
+        "marker": "Masjid Pathok Negoro Ad-Darojat",
+        "image": "https://i.ibb.co/Jx3WfG3/Whats-App-Image-2024-04-29-at-18-24-41.jpg"
+    },
+    {
+        "latitude": -8.440103988415098, 
+        "longitude": 116.73797940129249,
+        "value": 2,
+        "marker": "Gili Kondo",
+        "image": "https://i.ibb.co/vcw3ZGR/Whats-App-Image-2024-04-29-at-18-25-44.jpg" 
+    },
+    {
+        "latitude": -7.7958970735162145,  
+        "longitude": 110.38426880893975,
+        "value": 2,
+        "marker": "Stadion Mandala Krida",
+        "image": "https://i.ibb.co/N60M9Fd/Whats-App-Image-2024-04-29-at-18-26-20.jpg" 
+    },
+    {
+        "latitude": -7.8229353813631235,   
+        "longitude": 110.40987565124068,
+        "value": 2,
+        "marker": "Sekolah Tinggi Pariwisata",
+        "image": "https://i.ibb.co/Yt4KsbD/Whats-App-Image-2024-04-29-at-18-26-20-1.jpg" 
+    },
+    {
+        "latitude": -7.800674950856138,  
+        "longitude": 110.37950925048312,
+        "value": 2,
+        "marker": "SD Muhammadiyah Sokonandi",
+        "image": "https://i.ibb.co/q5B1bCk/Whats-App-Image-2024-04-29-at-18-26-21-1.jpg" 
+    },
+    {
+        "latitude": -7.762112809199323,   
+        "longitude":110.40931351075923,
+        "value": 2,
+        "marker": "Universitas Pembangunan Negeri",
+        "image": "https://i.ibb.co/8zFT77L/Whats-App-Image-2024-04-29-at-18-26-23.jpg" 
+    }
+]
+
