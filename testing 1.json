@@ -3,18 +3,22 @@
         "latitude": -7.788722155987107,
         "longitude": 110.40227391713528,
         "value": 1.7345,
-        "marker": "Rumah Makan Andeska"
+        "marker": "Rumah Makan Andeska",
+        "image": "https://i.ibb.co/tp6N8MC/dtk.jpg"
     },
     {
         "latitude": -7.798642017804806,
         "longitude": 110.39940670300862,
         "value": 2.6901,
-        "marker": "Masjid Pathok Negoro Ad-Darojat"
+        "marker": "Masjid Pathok Negoro Ad-Darojat",
+        "image": "https://i.ibb.co/tp6N8MC/dtk.jpg"
     },
     {
         "latitude": -8.440103988415098, 
         "longitude": 116.73797940129249,
         "value": 2.418,
-        "marker": "Gili Kondo"
+        "marker": "Gili Kondo",
+        "image": "https://i.ibb.co/tp6N8MC/dtk.jpg"
     }
 ]
+
