@@ -47,6 +47,83 @@
         "value": 2,
         "marker": "Universitas Pembangunan Negeri",
         "image": "https://i.ibb.co/8zFT77L/Whats-App-Image-2024-04-29-at-18-26-23.jpg" 
+    },
+    {
+        "latitude": -7.779615785226857,   
+        "longitude": 110.31135912403978,
+        "value": 28 ,
+        "marker": "Dagen Sidoarum Godean",
+        "image": "https://i.ibb.co/8zFT77L/Whats-App-Image-2024-04-29-at-18-26-23.jpg" 
+    },
+    {
+        "latitude": -7.7902432588254795,   
+        "longitude": 110.41613011873496, 
+        "value": 16 ,
+        "marker": "Museum Adisutjipto",
+        "image": "https://i.ibb.co/k1HtBhC/Whats-App-Image-2024-04-29-at-18-26-25-1.jpg" 
+    },
+    {
+        "latitude": -8.121136870656251,   
+        "longitude": 110.51420150894467,  
+        "value": 16 ,
+        "marker": "Pantai Ngrenehan\nTanggal: 11 November 2023",
+        "image": "https://i.ibb.co/W2DMscx/Whats-App-Image-2024-04-29-at-18-26-21.jpg" 
+    },
+    {
+        "latitude": -7.860446212618887,    
+        "longitude": 110.5839065514183, 
+        "value": 16 ,
+        "marker": "Gedangsari, Gunungkidul\nTanggal: 11 November 2023",
+        "image": "https://i.ibb.co/ckrH7TG/Whats-App-Image-2024-04-29-at-23-42-13.jpg" 
+    },
+    {
+        "latitude": -8.899148700651638,   
+        "longitude": 116.30623706128044,  
+        "value": 11 ,
+        "marker": "Mandalika\nTanggal: 11 November 2023",
+        "image": "https://i.ibb.co/K7Wb5Vq/Whats-App-Image-2024-04-29-at-18-51-13.jpg" 
+    },
+    {
+        "latitude": -7.852339771592993,  
+        "longitude": 110.41028288380316,   
+        "value": 11 ,
+        "marker": "Lapangan Jamdidan\nTanggal: 11 November 2023",
+        "image": "https://i.ibb.co/qg5bjFY/Whats-App-Image-2024-04-29-at-18-51-07.jpg" 
+    },
+    {
+        "latitude": -8.13836987811969,  
+        "longitude": 110.57753817674492,   
+        "value": 12 ,
+        "marker": "Pantai Drini\nTanggal: 11 November 2023",
+        "image": "https://i.ibb.co/tKf777N/Whats-App-Image-2024-04-29-at-23-51-08.jpg" 
+    },
+    {
+        "latitude": -7.94654206852391, 
+        "longitude": 110.39323034201945, 
+        "value": 3 ,
+        "marker": "Sriharjo, Bantul\nTanggal: 11 November 2023",
+        "image": "https://i.ibb.co/D9vk1cT/Whats-App-Image-2024-04-29-at-23-53-06.jpg" 
+    },
+    {
+        "latitude": -7.956019580054447, 
+        "longitude": 110.36125503278092,
+        "value": 7 ,
+        "marker": "Potrobayan, Bantul\nTanggal: 11 November 2023",
+        "image": "https://i.ibb.co/cYGHgZy/Whats-App-Image-2024-04-29-at-23-53-40.jpg" 
+    },
+    {
+        "latitude": -7.8253626645608865, 
+        "longitude": 110.11678695088793, 
+        "value": 11 ,
+        "marker": "Waduk Sermo\nTanggal: 11 November 2023",
+        "image": "https://i.ibb.co/cYGHgZy/Whats-App-Image-2024-04-29-at-23-53-40.jpg" 
+    },
+    {
+        "latitude": -7.807028627684631, 
+        "longitude": 110.40258603962461, 
+        "value": 11 ,
+        "marker": "Gedung Serbaguna Banguntapan\nTanggal: 11 November 2023",
+        "image": "https://i.ibb.co/BKCncwf/Whats-App-Image-2024-04-29-at-23-57-17.jpg" 
     }
 ]
 
