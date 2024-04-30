@@ -51,21 +51,21 @@
     {
         "latitude": -7.779615785226857,   
         "longitude": 110.31135912403978,
-        "value": 28 ,
+        "value": 11 ,
         "marker": "Dagen Sidoarum Godean\nTanggal: 10 Desember 2023",
         "image": "https://i.ibb.co/yyGk0QX/Whats-App-Image-2024-04-29-at-18-51-07-2.jpg" 
     },
     {
         "latitude": -7.7902432588254795,   
         "longitude": 110.41613011873496, 
-        "value": 16 ,
+        "value": 6 ,
         "marker": "Museum Adisutjipto\nTanggal: 17 November 2024",
         "image": "https://i.ibb.co/k1HtBhC/Whats-App-Image-2024-04-29-at-18-26-25-1.jpg" 
     },
     {
         "latitude": -8.121136870656251,   
         "longitude": 110.51420150894467,  
-        "value": 16 ,
+        "value": 9,
         "marker": "Pantai Ngrenehan\nTanggal: 11 November 2023",
         "image": "https://i.ibb.co/W2DMscx/Whats-App-Image-2024-04-29-at-18-26-21.jpg" 
     },
@@ -79,7 +79,7 @@
     {
         "latitude": -8.899148700651638,   
         "longitude": 116.30623706128044,  
-        "value": 11 ,
+        "value": 5 ,
         "marker": "Mandalika\nTanggal: 11 April 2024",
         "image": "https://i.ibb.co/K7Wb5Vq/Whats-App-Image-2024-04-29-at-18-51-13.jpg" 
     },
@@ -93,7 +93,7 @@
     {
         "latitude": -8.13836987811969,  
         "longitude": 110.57753817674492,   
-        "value": 12 ,
+        "value": 3 ,
         "marker": "Pantai Drini\nTanggal: 12 Juli 2023",
         "image": "https://i.ibb.co/tKf777N/Whats-App-Image-2024-04-29-at-23-51-08.jpg" 
     },
@@ -121,7 +121,7 @@
     {
         "latitude": -7.807028627684631, 
         "longitude": 110.40258603962461, 
-        "value": 11 ,
+        "value": 1 ,
         "marker": "Gedung Serbaguna Banguntapan\nTanggal: 12 November 2023",
         "image": "https://i.ibb.co/BKCncwf/Whats-App-Image-2024-04-29-at-23-57-17.jpg" 
     },
@@ -135,7 +135,7 @@
     {
         "latitude": -7.749140182186317, 
         "longitude": 110.68422703591098,  
-        "value": 11 ,
+        "value": 5 ,
         "marker": "Trucuk, Klaten\nTanggal: 11 Januari 2024",
         "image": "https://i.ibb.co/jfG0h2s/Whats-App-Image-2024-04-29-at-23-58-29.jpg" 
     },
@@ -273,13 +273,106 @@
         "image": "https://i.ibb.co/p0D8xBc/Whats-App-Image-2024-04-29-at-18-50-35-1.jpg" 
     },
     {
-        "latitude": -7.774861381735297,  
-        "longitude": 110.374477759185 ,  
-        "value": 7 ,
+        "latitude": -7.794734917862449, 
+        "longitude": 110.4026660780152,  
+        "value": 3 ,
         "marker": "Masjid Al-Muhtadin, Banguntapan, Bantul\nTanggal: 10 Februari 2024",
         "image": "https://i.ibb.co/J51Yy8v/Whats-App-Image-2024-04-29-at-18-51-12-1.jpg" 
-    }    
-]   
+    },
+    {
+        "latitude": -7.794802214012023, 
+        "longitude": 110.40246496464046,  
+        "value": 1 ,
+        "marker": "Graha Sabha Pramana, UGM\nTanggal: 30 April 2024",
+        "image": "https://i.ibb.co/xqYLrHf/Whats-App-Image-2024-04-30-at-13-44-13.jpg" 
+    },
+    {
+        "latitude": -7.774219024979381, 
+        "longitude": 110.37231476449455 ,  
+        "value": 7 ,
+        "marker": "Gedung TILC, Sekolah Vokasi, UGM\nTanggal: 23 Juni 2023",
+        "image": "https://i.ibb.co/stvRCMr/Whats-App-Image-2024-04-30-at-16-05-15.jpg" 
+    },
+    {
+        "latitude": -7.742246944009649, 
+        "longitude": 110.41358745311679, 
+        "value": 1 ,
+        "marker": "Masjid Al-Hidayah, Mancasan, Krajan, Sleman\nTanggal: 15 Oktober 2023",
+        "image": "https://i.ibb.co/rwYysYL/Whats-App-Image-2024-04-30-at-16-14-27.jpg" 
+    },
+    {
+        "latitude": -7.89687770447272, 
+        "longitude":  110.37310781079034,  
+        "value": 7 ,
+        "marker": "Mangut Lele Bu Is, Imogiri Barat, Jetis, Bantul\nTanggal: 13 Mei 2023",
+        "image": "https://i.ibb.co/fYnkhJg/Whats-App-Image-2024-04-30-at-16-21-20.jpg" 
+    },
+    {
+        "latitude": -7.771369419574556,  
+        "longitude": 110.37757336845954,
+        "value": 2 ,
+        "marker": "Lapangan Pancasila, UGM\nTanggal: 17 September 2023",
+        "image": "https://i.ibb.co/8z9hMV6/Whats-App-Image-2024-04-30-at-16-17-12.jpg" 
+    },
+    {
+        "latitude": -8.036864616195983, 
+        "longitude": 110.48644011095062,
+        "value": 2 ,
+        "marker": "Dondong, Jetis, Saptosari\nTanggal: 10 September 2023",
+        "image": "https://i.ibb.co/WfGC3VD/Whats-App-Image-2024-04-30-at-16-17-38.jpg" 
+    },
+    {
+        "latitude": -7.7757609819758535, 
+        "longitude": 110.37617931640845, 
+        "value": 9 ,
+        "marker": "Dondong, Jetis, Saptosari\nTanggal: 28 Juli 2023",
+        "image": "https://i.ibb.co/SvHSzRt/Whats-App-Image-2024-04-30-at-16-18-39.jpg" 
+    },
+    {
+        "latitude": -7.7757609819758535, 
+        "longitude": 110.37617931640845, 
+        "value": 3 ,
+        "marker": "Boulevard, UGM\nTanggal: 28 Juli 2023",
+        "image": "https://i.ibb.co/SvHSzRt/Whats-App-Image-2024-04-30-at-16-18-39.jpg" 
+    },
+    {
+        "latitude": -7.7757609819758535, 
+        "longitude": 110.37617931640845, 
+        "value": 4 ,
+        "marker": "Boulevard, UGM\nTanggal: 28 Juli 2023",
+        "image": "https://i.ibb.co/SvHSzRt/Whats-App-Image-2024-04-30-at-16-18-39.jpg" 
+    },
+    {
+        "latitude": -7.875125977379064, 
+        "longitude": 110.38026410894098, 
+        "value": 1 ,
+        "marker": "Stadion Sultan Agung, Bantul\nTanggal: 19 Juli 2023",
+        "image": "https://i.ibb.co/7VymX4R/Whats-App-Image-2024-04-30-at-16-19-21.jpg" 
+    },
+    {
+        "latitude": -7.875125977379064, 
+        "longitude": 110.38026410894098, 
+        "value": 2 ,
+        "marker": "Stadion Sultan Agung, Bantul\nTanggal: 19 Juli 2023",
+        "image": "https://i.ibb.co/7VymX4R/Whats-App-Image-2024-04-30-at-16-19-21.jpg" 
+    },
+    {
+        "latitude": -7.822357222997242, 
+        "longitude": 110.41160991494574,  
+        "value": 6,
+        "marker": "Embung Baturetno, Bantul\nTanggal: 9 Juli 2023",
+        "image": "https://i.ibb.co/nDdy64L/Whats-App-Image-2024-04-30-at-16-19-48.jpg" 
+    },
+    {
+        "latitude": -7.630138413106175, 
+        "longitude": 110.69404892842486,   
+        "value": 3,
+        "marker": "Sub Terminal Delanggu, Klaten\nTanggal: 14 Mei 2023",
+        "image": "https://i.ibb.co/Jnhc0Lz/Whats-App-Image-2024-04-30-at-16-20-54.jpg" 
+    }
+              
+]          
+  
 
 
 
