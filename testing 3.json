@@ -3,63 +3,63 @@
         "latitude": -7.788722155987107,
         "longitude": 110.40227391713528,
         "value": 1,
-        "marker": "Rumah Makan Andeska",
-        "image": "https://i.ibb.co/tp6N8MC/dtk.jpg"
+        "marker": "Rumah Makan Andeska\nTanggal: 28 April 2024",
+        "image": "https://i.ibb.co/BytmYwV/Whats-App-Image-2024-04-30-at-08-56-07.jpg"
     },
     {
         "latitude": -7.798642017804806,
         "longitude": 110.39940670300862,
         "value": 2,
-        "marker": "Masjid Pathok Negoro Ad-Darojat",
+        "marker": "Masjid Pathok Negoro Ad-Darojat\nTanggal: 21 April 2024",
         "image": "https://i.ibb.co/Jx3WfG3/Whats-App-Image-2024-04-29-at-18-24-41.jpg"
     },
     {
         "latitude": -8.440103988415098, 
         "longitude": 116.73797940129249,
         "value": 21,
-        "marker": "Gili Kondo",
+        "marker": "Gili Kondo\nTanggal: 14 April 2024",
         "image": "https://i.ibb.co/vcw3ZGR/Whats-App-Image-2024-04-29-at-18-25-44.jpg" 
     },
     {
         "latitude": -7.7958970735162145,  
         "longitude": 110.38426880893975,
         "value": 8,
-        "marker": "Stadion Mandala Krida",
+        "marker": "Stadion Mandala Krida\nTanggal: 13 Februari 2024",
         "image": "https://i.ibb.co/N60M9Fd/Whats-App-Image-2024-04-29-at-18-26-20.jpg" 
     },
     {
         "latitude": -7.8229353813631235,   
         "longitude": 110.40987565124068,
         "value": 2,
-        "marker": "Sekolah Tinggi Pariwisata",
+        "marker": "Sekolah Tinggi Pariwisata\nTanggal: 1 Februari 2024",
         "image": "https://i.ibb.co/Yt4KsbD/Whats-App-Image-2024-04-29-at-18-26-20-1.jpg" 
     },
     {
         "latitude": -7.800674950856138,  
         "longitude": 110.37950925048312,
         "value": 1,
-        "marker": "SD Muhammadiyah Sokonandi",
+        "marker": "SD Muhammadiyah Sokonandi\nTanggal: 8 Februari 2024",
         "image": "https://i.ibb.co/q5B1bCk/Whats-App-Image-2024-04-29-at-18-26-21-1.jpg" 
     },
     {
         "latitude": -7.762112809199323,   
         "longitude":110.40931351075923,
         "value": 2,
-        "marker": "Universitas Pembangunan Negeri",
+        "marker": "Universitas Pembangunan Negeri\nTanggal: 10 Oktober 2023",
         "image": "https://i.ibb.co/8zFT77L/Whats-App-Image-2024-04-29-at-18-26-23.jpg" 
     },
     {
         "latitude": -7.779615785226857,   
         "longitude": 110.31135912403978,
         "value": 28 ,
-        "marker": "Dagen Sidoarum Godean",
+        "marker": "Dagen Sidoarum Godean\nTanggal: 10 Desember 2023",
         "image": "https://i.ibb.co/yyGk0QX/Whats-App-Image-2024-04-29-at-18-51-07-2.jpg" 
     },
     {
         "latitude": -7.7902432588254795,   
         "longitude": 110.41613011873496, 
         "value": 16 ,
-        "marker": "Museum Adisutjipto",
+        "marker": "Museum Adisutjipto\nTanggal: 17 November 2024",
         "image": "https://i.ibb.co/k1HtBhC/Whats-App-Image-2024-04-29-at-18-26-25-1.jpg" 
     },
     {
@@ -147,18 +147,11 @@
         "image": "https://i.ibb.co/YyRS0Hz/Whats-App-Image-2024-04-29-at-23-59-10.jpg" 
     },
     {
-        "latitude": -7.78580674211682, 
-        "longitude": 110.39495535731359,   
+        "latitude": -7.785822665096698, 
+        "longitude": 110.39492663101387 ,   
         "value": 1 ,
         "marker": "TPU Sapen\nTanggal: 5 Februari 2024",
         "image": "https://i.ibb.co/j5YdqFn/Whats-App-Image-2024-04-30-at-00-00-11.jpg" 
-    },
-    {
-        "latitude": -7.785820963455276, 
-        "longitude": 110.39495057276073 ,  
-        "value": 5 ,
-        "marker": "Pelabuhan Nusa Penida\nTanggal: 4 April 2024",
-        "image": "https://i.ibb.co/z48kWTd/Whats-App-Image-2024-04-30-at-00-02-59.jpg" 
     },
     {
         "latitude": -8.533317369623393, 
@@ -240,13 +233,13 @@
     {
         "latitude": -7.765475174694239, 
         "longitude": 110.39549079544601 ,  
-        "value": 1 ,
+        "value": 3 ,
         "marker": "Clinic kamera, condongcatur, Sleman\nTanggal: 11 April 2024",
         "image": "https://i.ibb.co/r6GNKWZ/Whats-App-Image-2024-04-30-at-07-53-43.jpg" 
     },
     {
-        "latitude": -7.765475174694239, 
-        "longitude": 110.39549079544601 ,  
+        "latitude": -7.796636006149442,  
+        "longitude": 110.38286933357061, 
         "value": 1 ,
         "marker": "Nasi Balap Stadion Mandala Krida\nTanggal: 8 Maret 2024",
         "image": "https://i.ibb.co/FXKDJK5/Whats-App-Image-2024-04-30-at-08-00-31.jpg" 
@@ -261,7 +254,7 @@
     {
         "latitude": -7.787194676460036, 
         "longitude": 110.40181690960375 ,  
-        "value": 1 ,
+        "value": 6 ,
         "marker": "Perumahan Grand Ambarukmo, Depok, SLeman\nTanggal: 24 Februari 2024",
         "image": "https://i.ibb.co/LY1DKDB/Whats-App-Image-2024-04-30-at-08-00-44.jpg" 
     },
@@ -271,7 +264,21 @@
         "value": 1 ,
         "marker": "Jl. Bougenville, Karang Gayam, Caturtunggal, Kec. Depok, Kabupaten Sleman, DIY\nTanggal: 10 November 2023",
         "image": "https://i.ibb.co/bQJWLpt/Whats-App-Image-2024-04-30-at-08-02-33.jpg" 
-    }   
+    },
+    {
+        "latitude": -7.774861381735297,  
+        "longitude": 110.374477759185 ,  
+        "value": 9 ,
+        "marker": "Departemen Teknologi Kebumian, Sekolah Vokasi, UGM\nTanggal: 10 Maret 2024",
+        "image": "https://i.ibb.co/p0D8xBc/Whats-App-Image-2024-04-29-at-18-50-35-1.jpg" 
+    },
+    {
+        "latitude": -7.774861381735297,  
+        "longitude": 110.374477759185 ,  
+        "value": 7 ,
+        "marker": "Masjid Al-Muhtadin, Banguntapan, Bantul\nTanggal: 10 Februari 2024",
+        "image": "https://i.ibb.co/J51Yy8v/Whats-App-Image-2024-04-29-at-18-51-12-1.jpg" 
+    }    
 ]   
 
 
