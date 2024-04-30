@@ -16,14 +16,14 @@
     {
         "latitude": -8.440103988415098, 
         "longitude": 116.73797940129249,
-        "value": 2,
+        "value": 21,
         "marker": "Gili Kondo",
         "image": "https://i.ibb.co/vcw3ZGR/Whats-App-Image-2024-04-29-at-18-25-44.jpg" 
     },
     {
         "latitude": -7.7958970735162145,  
         "longitude": 110.38426880893975,
-        "value": 2,
+        "value": 8,
         "marker": "Stadion Mandala Krida",
         "image": "https://i.ibb.co/N60M9Fd/Whats-App-Image-2024-04-29-at-18-26-20.jpg" 
     },
@@ -37,7 +37,7 @@
     {
         "latitude": -7.800674950856138,  
         "longitude": 110.37950925048312,
-        "value": 2,
+        "value": 1,
         "marker": "SD Muhammadiyah Sokonandi",
         "image": "https://i.ibb.co/q5B1bCk/Whats-App-Image-2024-04-29-at-18-26-21-1.jpg" 
     },
@@ -53,7 +53,7 @@
         "longitude": 110.31135912403978,
         "value": 28 ,
         "marker": "Dagen Sidoarum Godean",
-        "image": "https://i.ibb.co/8zFT77L/Whats-App-Image-2024-04-29-at-18-26-23.jpg" 
+        "image": "https://i.ibb.co/yyGk0QX/Whats-App-Image-2024-04-29-at-18-51-07-2.jpg" 
     },
     {
         "latitude": -7.7902432588254795,   
@@ -80,7 +80,7 @@
         "latitude": -8.899148700651638,   
         "longitude": 116.30623706128044,  
         "value": 11 ,
-        "marker": "Mandalika\nTanggal: 11 November 2023",
+        "marker": "Mandalika\nTanggal: 11 April 2024",
         "image": "https://i.ibb.co/K7Wb5Vq/Whats-App-Image-2024-04-29-at-18-51-13.jpg" 
     },
     {
@@ -94,21 +94,21 @@
         "latitude": -8.13836987811969,  
         "longitude": 110.57753817674492,   
         "value": 12 ,
-        "marker": "Pantai Drini\nTanggal: 11 November 2023",
+        "marker": "Pantai Drini\nTanggal: 12 Juli 2023",
         "image": "https://i.ibb.co/tKf777N/Whats-App-Image-2024-04-29-at-23-51-08.jpg" 
     },
     {
         "latitude": -7.94654206852391, 
         "longitude": 110.39323034201945, 
         "value": 3 ,
-        "marker": "Sriharjo, Bantul\nTanggal: 11 November 2023",
+        "marker": "Sriharjo, Bantul\nTanggal: 3 Oktober 2023",
         "image": "https://i.ibb.co/D9vk1cT/Whats-App-Image-2024-04-29-at-23-53-06.jpg" 
     },
     {
         "latitude": -7.956019580054447, 
         "longitude": 110.36125503278092,
         "value": 7 ,
-        "marker": "Potrobayan, Bantul\nTanggal: 11 November 2023",
+        "marker": "Potrobayan, Bantul\nTanggal: 7 Agustus 2023",
         "image": "https://i.ibb.co/cYGHgZy/Whats-App-Image-2024-04-29-at-23-53-40.jpg" 
     },
     {
@@ -116,14 +116,165 @@
         "longitude": 110.11678695088793, 
         "value": 11 ,
         "marker": "Waduk Sermo\nTanggal: 11 November 2023",
-        "image": "https://i.ibb.co/cYGHgZy/Whats-App-Image-2024-04-29-at-23-53-40.jpg" 
+        "image": "https://i.ibb.co/Gp8yFqF/Whats-App-Image-2024-04-30-at-07-47-20.jpg" 
     },
     {
         "latitude": -7.807028627684631, 
         "longitude": 110.40258603962461, 
         "value": 11 ,
-        "marker": "Gedung Serbaguna Banguntapan\nTanggal: 11 November 2023",
+        "marker": "Gedung Serbaguna Banguntapan\nTanggal: 12 November 2023",
         "image": "https://i.ibb.co/BKCncwf/Whats-App-Image-2024-04-29-at-23-57-17.jpg" 
-    }
-]
+    },
+    {
+        "latitude": -7.783431125927451, 
+        "longitude": 110.42979268519497, 
+        "value": 11 ,
+        "marker": "JL. Solo-Yogya\nTanggal: 24 Desember 2023",
+        "image": "https://i.ibb.co/WD1sj6D/Whats-App-Image-2024-04-29-at-23-57-59.jpg" 
+    },
+    {
+        "latitude": -7.749140182186317, 
+        "longitude": 110.68422703591098,  
+        "value": 11 ,
+        "marker": "Trucuk, Klaten\nTanggal: 11 Januari 2024",
+        "image": "https://i.ibb.co/jfG0h2s/Whats-App-Image-2024-04-29-at-23-58-29.jpg" 
+    },
+    {
+        "latitude": -7.759826948469929, 
+        "longitude": 110.40904850157092 ,  
+        "value": 11 ,
+        "marker": "Universitas Amikom\nTanggal: 5 Februari 2024",
+        "image": "https://i.ibb.co/YyRS0Hz/Whats-App-Image-2024-04-29-at-23-59-10.jpg" 
+    },
+    {
+        "latitude": -7.78580674211682, 
+        "longitude": 110.39495535731359,   
+        "value": 1 ,
+        "marker": "TPU Sapen\nTanggal: 5 Februari 2024",
+        "image": "https://i.ibb.co/j5YdqFn/Whats-App-Image-2024-04-30-at-00-00-11.jpg" 
+    },
+    {
+        "latitude": -7.785820963455276, 
+        "longitude": 110.39495057276073 ,  
+        "value": 5 ,
+        "marker": "Pelabuhan Nusa Penida\nTanggal: 4 April 2024",
+        "image": "https://i.ibb.co/z48kWTd/Whats-App-Image-2024-04-30-at-00-02-59.jpg" 
+    },
+    {
+        "latitude": -8.533317369623393, 
+        "longitude": 115.50770984001655 ,  
+        "value": 9 ,
+        "marker": "Pelabuhan Penyeberangan PTASDP Indonesiaferry Padangbai Bali\nTanggal: 4 April 2024",
+        "image": "https://i.ibb.co/z48kWTd/Whats-App-Image-2024-04-30-at-00-02-59.jpg" 
+    },
+    {
+        "latitude": -8.657128340776563, 
+        "longitude": 116.55178530519846 ,  
+        "value": 7 ,
+        "marker": "Jl. Imam Bonjol, Kelayu Sel., Kec. Selong, Kabupaten Lombok Timur, Nusa Tenggara Bar\nTanggal: 9 April 2024",
+        "image": "https://i.ibb.co/bHPszgF/Whats-App-Image-2024-04-30-at-00-03-20.jpg" 
+    },
+    {
+        "latitude": -8.657948892667541, 
+        "longitude": 116.55243713311883,  
+        "value": 2 ,
+        "marker": "Masjid Jami Al-Umari Kelayu\nTanggal: 10 April 2024",
+        "image": "https://i.ibb.co/F3VQCBw/Whats-App-Image-2024-04-30-at-00-03-43.jpg" 
+    },
+    {
+        "latitude": -8.909267540238595,  
+        "longitude": 116.32113970895725,  
+        "value": 23 ,
+        "marker": "Tanjung Aan Beach\nTanggal: 11 April 2024",
+        "image": "https://i.ibb.co/y6dZyLb/Whats-App-Image-2024-04-30-at-00-04-17.jpg" 
+    },
+    {
+        "latitude": -8.57819397704293, 
+        "longitude": 116.10075298591948,  
+        "value": 1 ,
+        "marker": "Islamic Center NTB - Hubbul Wathan Great Mosque\nTanggal: 13 April 2024",
+        "image": "https://i.ibb.co/cYjKDkn/Whats-App-Image-2024-04-30-at-00-04-47.jpg" 
+    },
+    {
+        "latitude": -8.761763123003425, 
+        "longitude": 116.27561259897058 ,  
+        "value": 4 ,
+        "marker": "Bandara International Lombok, Tanak Awu, Pujut, Central Lombok Regency, NTB \nTanggal: 13 April 2024",
+        "image": "https://i.ibb.co/mHB6LSh/Whats-App-Image-2024-04-30-at-00-05-19.jpg" 
+    },
+    {
+        "latitude": -7.789564523708141, 
+        "longitude": 110.39872509544642,  
+        "value": 2 ,
+        "marker": "Cafe Basa Basi Sorowajan, Banguntapan, Bantul \nTanggal: 13 April 2024",
+        "image": "https://i.ibb.co/jy2VShH/Whats-App-Image-2024-04-30-at-00-05-37.jpg" 
+    },
+    {
+        "latitude": -7.8211807987063695, 
+        "longitude": 110.33235786411137,   
+        "value": 1 ,
+        "marker": "JL. Brajan, Tamantirto, Kasihan, Bantul \nTanggal: 13 April 2024",
+        "image": "https://i.ibb.co/9nn3cD7/Whats-App-Image-2024-04-30-at-00-00-53.jpg" 
+    },
+    {
+        "latitude": -7.790330925256492, 
+        "longitude": 110.40229059301234,   
+        "value": 1 ,
+        "marker": "Jl. Pedak No.387, Jaranan, Banguntapan, Kec. Banguntapan, Kabupaten Bantul, DIY \nTanggal: 14 April 2024",
+        "image": "https://i.ibb.co/QNGXTHh/Whats-App-Image-2024-04-30-at-07-45-10.jpg" 
+    },
+    {
+        "latitude": -7.8084233013892685, 
+        "longitude": 110.38166937335785 ,   
+        "value": 17 ,
+        "marker": "Sarjanawiyata Tamansiswa University \nTanggal: 2 Maret 2024",
+        "image": "https://i.ibb.co/J7G5CCK/Whats-App-Image-2024-04-30-at-07-46-22.jpg" 
+    },
+    {
+        "latitude": -7.829578887007868, 
+        "longitude": 110.45343342610538,  
+        "value": 1 ,
+        "marker": "Masjid AL IKHLAS (Selatan Pasar Wage)\nTanggal: 5 November 2023",
+        "image": "https://i.ibb.co/K9VTb7M/Whats-App-Image-2024-04-30-at-07-47-52.jpg" 
+    }, 
+    {
+        "latitude": -7.765475174694239, 
+        "longitude": 110.39549079544601 ,  
+        "value": 1 ,
+        "marker": "Clinic kamera, condongcatur, Sleman\nTanggal: 11 April 2024",
+        "image": "https://i.ibb.co/r6GNKWZ/Whats-App-Image-2024-04-30-at-07-53-43.jpg" 
+    },
+    {
+        "latitude": -7.765475174694239, 
+        "longitude": 110.39549079544601 ,  
+        "value": 1 ,
+        "marker": "Nasi Balap Stadion Mandala Krida\nTanggal: 8 Maret 2024",
+        "image": "https://i.ibb.co/FXKDJK5/Whats-App-Image-2024-04-30-at-08-00-31.jpg" 
+    },
+    {
+        "latitude": -7.7766798952577965, 
+        "longitude": 110.37423915512105,  
+        "value": 1 ,
+        "marker": "Manna Kampus Peralatan Rumah Tangga\nTanggal: 8 Maret 2024",
+        "image": "https://i.ibb.co/7XwPQPR/Whats-App-Image-2024-04-30-at-08-00-35.jpg" 
+    },
+    {
+        "latitude": -7.787194676460036, 
+        "longitude": 110.40181690960375 ,  
+        "value": 1 ,
+        "marker": "Perumahan Grand Ambarukmo, Depok, SLeman\nTanggal: 24 Februari 2024",
+        "image": "https://i.ibb.co/LY1DKDB/Whats-App-Image-2024-04-30-at-08-00-44.jpg" 
+    },
+    {
+        "latitude": -7.768110052491043,  
+        "longitude": 110.3876149987946,  
+        "value": 1 ,
+        "marker": "Jl. Bougenville, Karang Gayam, Caturtunggal, Kec. Depok, Kabupaten Sleman, DIY\nTanggal: 10 November 2023",
+        "image": "https://i.ibb.co/bQJWLpt/Whats-App-Image-2024-04-30-at-08-02-33.jpg" 
+    }   
+]   
+
+
+
+
 
